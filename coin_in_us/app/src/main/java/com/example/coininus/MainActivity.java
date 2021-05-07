@@ -3,7 +3,7 @@ package com.example.coininus;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+// ethan's
 public class MainActivity extends AppCompatActivity {
 
     @Override
